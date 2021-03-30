@@ -1,0 +1,17 @@
+.imagen {
+  height: 300px;
+  width: 300px;
+  margin: 15px 10px 10px 10px;
+}
+
+.card-item {
+  margin-bottom: 20px;
+}
+
+.card-item-name {
+  text-align: center;
+}
+
+.icon-favorite {
+  color: red !important;
+}

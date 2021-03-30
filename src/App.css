@@ -1,0 +1,8 @@
+.content-pjs {
+  display: flex;
+  justify-content: space-around;
+  flex-flow: row wrap;
+}
+.appbar-item {
+  align-items: center;
+}
